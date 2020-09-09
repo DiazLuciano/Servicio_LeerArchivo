@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Servicio_DescargarArchivo_Galileo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FTP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://158.69.112.103</Value>
+    </Setting>
+    <Setting Name="FTP_Usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Timesolution</Value>
+    </Setting>
+    <Setting Name="FTP_Contrasena" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Timesol1</Value>
+    </Setting>
+    <Setting Name="RutaArchivoALeer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\IMPEXP\Procesar\</Value>
+    </Setting>
+    <Setting Name="RutaArchivoProcesado" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\IMPEXP\Procesados\</Value>
+    </Setting>
+    <Setting Name="RutaLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\IMPEXP\Log\log.txt</Value>
+    </Setting>
+    <Setting Name="ModoDesarrollo" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RutaLogNoImportados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\IMPEXP\No_Procesados\ORDENES_NO_PROCESADOS.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
