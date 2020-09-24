@@ -23,14 +23,7 @@ namespace Servicio_DescargarArchivo_Galileo.Capa_Conexion
         public AccesoDatos()
         {
             //PC LOCAL
-            //strcondatos = @"Data Source=localhost\SQLExpress;Initial Catalog=HOST_IMPEXP;Integrated Security=SSPI;";
-
-
-            //HOST_IMPEXP_Desarrollo 158.
-            //strcondatos = @"Data Source =WIN-0T2Q0D58EO4\SQLEXPRESS; Initial Catalog = HOST_IMPEXP; Persist Security Info=False;User ID=sa;Password=Timesol1;";
-
-            //GALILEO
-            strcondatos = @"Data Source = DESKTOP-OOSCSQU; Initial Catalog = HOST_IMPEXP; Integrated Security=SSPI;";
+            strcondatos = @"Data Source=localhost\SQLExpress;Initial Catalog=HOST_IMPEXP;Integrated Security=SSPI;";
 
         }
 
