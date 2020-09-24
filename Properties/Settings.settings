@@ -3,13 +3,13 @@
   <Profiles />
   <Settings>
     <Setting Name="FTP" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">ftp://158.69.112.103</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="FTP_Usuario" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Timesolution</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="FTP_Contrasena" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">Timesol1</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RutaArchivoALeer" Type="System.String" Scope="Application">
       <Value Profile="(Default)">C:\IMPEXP\Procesar\</Value>

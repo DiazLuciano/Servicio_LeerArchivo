@@ -12,7 +12,7 @@ namespace Servicio_DescargarArchivo_Galileo.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.8.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.6.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace Servicio_DescargarArchivo_Galileo.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("ftp://158.69.112.103")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string FTP {
             get {
                 return ((string)(this["FTP"]));
@@ -34,7 +34,7 @@ namespace Servicio_DescargarArchivo_Galileo.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Timesolution")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string FTP_Usuario {
             get {
                 return ((string)(this["FTP_Usuario"]));
@@ -43,7 +43,7 @@ namespace Servicio_DescargarArchivo_Galileo.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Timesol1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string FTP_Contrasena {
             get {
                 return ((string)(this["FTP_Contrasena"]));
